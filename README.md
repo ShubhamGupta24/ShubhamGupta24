@@ -3,7 +3,7 @@
 <h1>💫 About Me:</h1> 
 <img align="right" height="150" src="https://thehonestcoder.com/wp-content/uploads/2024/05/logo-1-1024x831.webp"  />
 <br>
- 🌱I'm a learner having keen interests in software development <br>📗I'm currently learning Machine Learning and NLP.<br>🔭I'm looking for internship oppurtunity in the field of Data Science.<br>📫 How to reach me guptashubhamofficial24@gmail.com
+ -🌱I'm a learner having keen interests in software development <br>-📗I'm currently learning Machine Learning and NLP.<br>-🔭I'm looking for internship oppurtunity in the field of Data Science.<br>-📫 How to reach me guptashubhamofficial24@gmail.com
 
 
 # 🌐 Socials:
