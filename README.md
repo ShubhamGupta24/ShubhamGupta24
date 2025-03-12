@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Gupta <img src="https://komarev.com/ghpvc/?username=shubhamgupta24&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgupta24" /></h1>
 <h1>💫 About Me:</h1> 
-<img align="right" height="150" src="[https://thehonestcoder.com/wp-content/uploads/2024/05/logo-1-1024x831.webp](https://images.app.goo.gl/xj7c7J5FVJSQqe578)"  />
+<img align="right" height="150" src="https://thehonestcoder.com/wp-content/uploads/2024/05/logo-1-1024x831.webp"  />
 <br>
  - 🌎I'm from India<br>
  - 🌱I'm a learner having keen interests in software development <br>
