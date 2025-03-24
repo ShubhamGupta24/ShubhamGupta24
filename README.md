@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Gupta <img src="https://komarev.com/ghpvc/?username=shubhamgupta24&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgupta24" /></h1>
 <h1>💫 About Me:</h1> 
-<img align="right" height="250" src="./—Pngtree—cartoon%20designer%20working%20on%203d_19495068.png"  />
+<img align="right" height="200" src="./—Pngtree—cartoon%20designer%20working%20on%203d_19495068.png"  />
 <br>
  - 🌎I'm from India<br>
  - 🌱I'm a learner having keen interests in software development <br>
