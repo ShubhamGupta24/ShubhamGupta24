@@ -6,8 +6,9 @@
  - 🌎I'm from India<br>
  - 🌱I'm a learner having keen interests in software development <br>
  - 💻I'm a full stack developer in specialisation in MERN AND FERN stack<br>
+ - 👨🏻‍💻I'm currently working as Microservices Intern at Cognizant alongwith as Fullstack Developer(React Native) Intern at Small World(an event organizing company)<br>
  - 📗I'm currently learning Machine Learning and NLP.<br>
- - 🔭I'm looking for internship oppurtunity in the field of Data Science.<br>
+ - 🔭I'm looking for internship oppurtunity in the field of Data Science as well.<br>
  - 📫 How to reach me guptashubhamofficial24@gmail.com
 
 
