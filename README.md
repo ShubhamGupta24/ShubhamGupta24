@@ -5,8 +5,8 @@
 <br>
  - 🌎I'm from India<br>
  - 🌱I'm a learner having keen interests in software development <br>
- - 💻I'm a full stack developer in specialisation in MERN AND FERN stack<br>
- - 👨🏻‍💻I'm currently working as Microservices Intern at Cognizant Technology Solutions alongwith as Fullstack Developer(React Native) Intern at Small World(an event organizing company)<br>
+ - 💻I'm a full stack developer with specialisation in MERN AND FERN stack<br>
+ - 👨🏻‍💻I'm currently working as Microservices Intern at Cognizant Technology Solutions alongwith it I rejoined Sparklog Ventures LLP<br>
  - 📗I'm currently learning Machine Learning and NLP.<br>
  - 🔭I'm looking for internship oppurtunity in the field of Data Science as well.<br>
  - 📫 How to reach me guptashubhamofficial24@gmail.com
@@ -18,7 +18,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,firebase,git,github,java,nodejs,postman,scikitlearn,c,selenium,python,supabase,azure,tailwind,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,firebase,git,github,java,nodejs,postman,scikitlearn,c,selenium,python,supabase,azure,tailwind,mongodb,mysql,tenserflow,SpringBoot)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
