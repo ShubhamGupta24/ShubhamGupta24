@@ -18,7 +18,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,firebase,git,github,java,nodejs,postman,scikitlearn,c,selenium,python,supabase,azure,tailwind,mongodb,mysql,tenserflow,SpringBoot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,firebase,git,github,java,nodejs,postman,scikitlearn,c,selenium,python,supabase,azure,tailwind,mongodb,mysql,fastapi,githubactions,tensorflow,spring,supabase)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
